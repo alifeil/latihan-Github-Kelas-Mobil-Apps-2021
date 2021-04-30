@@ -1,3 +1,4 @@
 ini adalah file 1 pada repo github
 file ini ditambahkan
 file percobaanku 1
+file percobaanku 2
