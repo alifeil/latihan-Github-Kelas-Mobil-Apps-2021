@@ -1,1 +1,2 @@
 ini adalah file 1 pada repo github
+file ini ditambahkan
